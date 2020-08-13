@@ -1,12 +1,16 @@
 {
-  "name": "SadraJafarii",
-  "displayName": "SadraJafarii",
+  "name": "Euro Trip",
+  "displayName": "Euro Trip",
+  "icon": "./travel_app.png",
   "expo": {
-    "name": "SadraJafarii",
+    "name": "Euro Trip",
     "slug": "SadraJafarii",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.sadra_jafari.sadra"
+    }
   }
 }
