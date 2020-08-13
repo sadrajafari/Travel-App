@@ -1,0 +1,12 @@
+{
+  "name": "SadraJafarii",
+  "displayName": "SadraJafarii",
+  "expo": {
+    "name": "SadraJafarii",
+    "slug": "SadraJafarii",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
